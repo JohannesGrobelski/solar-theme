@@ -4,16 +4,17 @@ Explore the depths of Neptune's brooding blues and Saturn's haunting elegance in
 
 # color pallete
 
-Background:
+Background:  ??
 Current Line:
 Selection:
 Foreground:
 Comment:
-Mercury: - Deep metallic gray, reflecting its rocky surface and proximity to the Sun.
-Venus: - Moody orange, representing its thick atmosphere and intense heat.
-Earth: - Mesmerizing cyan, symbolizing its oceans, landmasses, and atmosphere.
-Mars: Rusty red, reflecting its iron-rich soil and dusty surface.
-Jupiter: Mesmerizing maroon, reminiscent of its iconic storm clouds and gas giant atmosphere.
-Saturn: Dark golden yellow, evoking its rings and gas giant presence.
-Uranus: Pale blue, mirroring its icy composition and unique axial tilt.
-Neptune: Deep, dark indigo, representing its icy atmosphere and remote location in the outer solar system.
+Mercury: - ?, reflecting its rocky surface and proximity to the Sun.
+Venus: - ?, representing its thick atmosphere and intense heat.
+Earth: - ?, symbolizing its oceans, landmasses, and atmosphere.
+Mars: ?, reflecting its iron-rich soil and dusty surface.
+Jupiter: ?, reminiscent of its iconic storm clouds and gas giant atmosphere.
+Saturn: ?, evoking its rings and gas giant presence.
+Uranus: ?, mirroring its icy composition and unique axial tilt.
+Neptune: ?, representing its icy atmosphere and remote location in the outer solar system.
+Pluto: ?, holds court as the enigmatic denizen of the distant Kuiper Belt, despite its not-so-planetary status.
