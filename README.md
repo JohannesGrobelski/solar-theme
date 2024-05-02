@@ -13,6 +13,7 @@ Explore the depths of Neptune's brooding blues and Saturn's haunting elegance in
 | Selection | #3f4046 | |
 | Foreground | #b7b7ba | |
 | Comment | #6f7075 | |
+| Highlight | #cfcfd1 | |
 | Mercury |#c7c5c5 | Reflecting its rocky surface and proximity to the Sun. |
 | Venus | #c1c139 | Representing its thick atmosphere and intense heat. |
 | Earth | #3991c1 | Symbolizing its oceans, landmasses, and atmosphere. |
