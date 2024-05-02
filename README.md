@@ -21,5 +21,5 @@ Explore the depths of Neptune's brooding blues and Saturn's haunting elegance in
 | Jupiter | #c17639 | Reminiscent of its iconic storm clouds and gas giant atmosphere. |
 | Saturn | #c1a439 | Evoking its rings and gas giant presence. |
 | Uranus | #39b3c1 | Mirroring its icy composition and unique axial tilt. |
-| Neptune | #4939c1 | Representing its icy atmosphere and remote location in the outer solar system. |
+| Neptune | #39c17f | Representing its icy atmosphere and remote location in the outer solar system. |
 | Pluto | #6d39c1 | Manifesting the distant hues of its icy plains and rugged terrain. |
