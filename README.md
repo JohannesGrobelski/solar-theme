@@ -1,4 +1,4 @@
-![Solar Theme](colors_image.png "Solar Theme")
+![Solar Theme](images/colors_image.png "Solar Theme")
 
 # solar-theme
 Introducing the Solar Theme : a dark, moody theme where each color embodies a distant planet's mystique. 
