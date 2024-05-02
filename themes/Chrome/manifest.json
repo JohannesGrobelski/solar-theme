@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Solar Theme",
+  "description": "A gloomy dark theme for chrome.",
+  "version": "1.0",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [16, 17, 25],
+      "frame_inactive": [16, 17, 25],
+      "frame_incognito": [18, 19, 28],
+      "frame_incognito_inactive": [18, 19, 28],
+      "bookmark_text": [238, 238, 238],
+      "tab_background_text": [98, 114, 164],
+      "tab_background_text_inactive": [98, 114, 164],
+      "tab_background_text_incognito": [98, 114, 164],
+      "tab_background_text_incognito_inactive": [98, 114, 164],
+      "tab_text": [238, 238, 238],
+      "toolbar": [68, 71, 90],
+      "toolbar_button_icon": [238, 238, 238],
+      "omnibox_text": [238, 238, 238],
+      "omnibox_background": [33, 34, 44],
+      "ntp_background": [40, 42, 54],
+      "ntp_link": [139, 233, 253],
+      "ntp_text": [238, 238, 238]
+    },
+    "images": {
+      "theme_toolbar": "images/theme_toolbar_transparent.png",
+      "theme_tab_background": "images/theme_toolbar.png"
+    }
+  }
+}
