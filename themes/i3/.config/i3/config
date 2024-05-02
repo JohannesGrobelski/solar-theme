@@ -1,24 +1,24 @@
 # class                 border  bground text    indicator child_border
-client.focused          #cfcfd1 #cfcfd1 #cfcfd1 #cfcfd1   #cfcfd1
-client.focused_inactive #c13939 #c13939 #cfcfd1 #c13939   #c13939
-client.unfocused        #101119 #101119 #cfcfd1 #101119   #101119
-client.urgent           #c13939 #FF5555 #cfcfd1 #FF5555   #FF5555
-client.placeholder      #101119 #101119 #cfcfd1 #101119   #101119
+client.focused          #eeeeee #eeeeee #eeeeee #eeeeee   #eeeeee
+client.focused_inactive #c13939 #c13939 #eeeeee #c13939   #c13939
+client.unfocused        #101119 #101119 #eeeeee #101119   #101119
+client.urgent           #c13939 #FF5555 #eeeeee #FF5555   #FF5555
+client.placeholder      #101119 #101119 #eeeeee #101119   #101119
 
 client.background       #101119 
 
 bar {
   colors {
     background #101119
-    statusline #cfcfd1
+    statusline #eeeeee
     separator  #c13939
 
-    focused_workspace  #c13939 #c13939 #cfcfd1
-    active_workspace   #101119 #c13939 #cfcfd1
+    focused_workspace  #c13939 #c13939 #eeeeee
+    active_workspace   #101119 #c13939 #eeeeee
     inactive_workspace #101119 #101119 #BFBFBF
-    urgent_workspace   #FF5555 #FF5555 #cfcfd1
-    binding_mode       #FF5555 #FF5555 #cfcfd1
+    urgent_workspace   #FF5555 #FF5555 #eeeeee
+    binding_mode       #FF5555 #FF5555 #eeeeee
   }
 }
 
-bindsym $mod+d exec "dmenu_run -nf '#cfcfd1' -nb '#101119' -sb '#cfcfd1' -sf '#cfcfd1' -fn 'monospace-10' -p 'dmenu%'"
+bindsym $mod+d exec "dmenu_run -nf '#eeeeee' -nb '#101119' -sb '#eeeeee' -sf '#eeeeee' -fn 'monospace-10' -p 'dmenu%'"
